@@ -1,4 +1,4 @@
-baseURL = "https://ryuhat.github.io"
+baseURL = "https://ryuhat.github.io/"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
